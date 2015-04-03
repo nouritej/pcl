@@ -19,6 +19,7 @@ make
 Usage
 -----------------------------------
 
+To take a cloud data with 2-second timer and visualize it:
 ```sh
 ./openniViewer -t 2
 ./openniViewer -v inputCloud0.pcd
