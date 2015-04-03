@@ -1,6 +1,6 @@
 About
 -----------------------------------
-Example shows how to capture a point cloud.
+Example shows how to capture a point cloud and visualize it.
 
 You will need a common Kinect device,PCL and OpenNI.
 
