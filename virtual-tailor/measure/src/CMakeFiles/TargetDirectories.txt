@@ -1,0 +1,2 @@
+/home/mc/Desktop/Bitirme/view3/src/CMakeFiles/main.dir
+/home/mc/Desktop/Bitirme/view3/src/CMakeFiles/mylib.dir
