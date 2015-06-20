@@ -22,15 +22,17 @@ In each ``src`` directory
 
 ### How to run:
 
-* For ``modeling``:
+* For ``modeling`` :
+
 
     $ ./main
 
-* For ``take-coor``:
+* For ``take-coor`` :
+
 
     $ ./pcl_visualizer_demo -i
 
-* For ``measure``:
+* For ``measure`` :
 
 Need output of ``take-coor ``!
 An example of usage:
