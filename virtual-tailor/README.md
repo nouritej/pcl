@@ -24,11 +24,13 @@ In each ``src`` directory
 
 * For ``modeling`` :
 
+Just place 4 clouds of human body and
 
     $ ./main
 
 * For ``take-coor`` :
 
+``file.pcd`` is merged cloud. (Don't forget when taking coordinates)
 
     $ ./pcl_visualizer_demo -i
 
