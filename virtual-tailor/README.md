@@ -17,8 +17,6 @@ The Virtual Tailor Project is a tool for measuring human body.
 
 In each ``src`` directory 
 
-.. code-block:: console
-
     $ cmake -DCMAKE_BUILD_TYPE=Release ../
     $ sudo make
 
@@ -26,13 +24,9 @@ In each ``src`` directory
 
 * For ``modeling``:
 
-.. code-block:: console
-
     $ ./main
 
 * For ``take-coor``:
-
-.. code-block:: console
 
     $ ./pcl_visualizer_demo -i
 
@@ -40,7 +34,5 @@ In each ``src`` directory
 
 Need output of ``take-coor ``!
 An example of usage:
-
-.. code-block:: console
 
     $ ./main -0.124821 0.0418782 0.219404 0.0347325 -0.118073 -0.124766 0.204303 -0.127636 -0.15441 -0.363924 0.24741 -0.360937
