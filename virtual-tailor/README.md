@@ -30,7 +30,7 @@ Just place 4 clouds of human body and
 
 * For ``take-coor`` :
 
-``file.pcd`` is merged cloud. (Don't forget when taking coordinates)
+``file.pcd`` is merged cloud. (Don't forget place file.pcd when taking coordinates)
 
     $ ./pcl_visualizer_demo -i
 
