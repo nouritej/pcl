@@ -1,6 +1,6 @@
 ## Welcome to the Virtual Tailor Project!
 
-The Virtual Tailor Project is a tool for measuring human body.
+The <a href="https://www.researchgate.net/publication/279201882_Tailleur_Virtuel_Modelisation_3D_d'un_corps_humain" target="_blank">Virtual Tailor Project</a> is a tool for measuring human body.
 
 ### This is a description of the files/directories:
 
